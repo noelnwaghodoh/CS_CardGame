@@ -7,7 +7,7 @@
 		/// </summary>
 		private System.ComponentModel.IContainer components = null;
 
-		Card C1 = new Card(0,2);
+		
 		/// <summary>
 		///  Clean up any resources being used.
 		/// </summary>
