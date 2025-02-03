@@ -21,8 +21,8 @@ namespace Card_Game
 			p1.Height = 720;
 
 			Board b1 = new Board(1,this);
-			this.Controls.Add(p1);	
-			label1.Text = "Music";
+			//this.Controls.Add(p1);	
+			
 
 			
 		}
